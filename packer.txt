@@ -9,7 +9,7 @@ export PATH=/usr/local/bin:$PATH
 source .bash_profile
 ./terraform version
 
-
+==================================================================================
 
 Packer Installation
 sudo su
@@ -35,10 +35,4 @@ sudo mkdir /home/ec2-user/nduka-test
 
 ./packer validate packer.json
 ./packer build packer.json
-
-https://www.aws.training/Certification
-
-
-
-
 
